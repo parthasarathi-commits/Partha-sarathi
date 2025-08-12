@@ -3,6 +3,16 @@
   padding: 0;
 }
 
+section {
+  margin: 0;
+  padding: 0;
+}
+
+/* Reduce container padding */
+.container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
 body {
   font-family: "Josefin Sans", sans-serif;
   background: url('pexels-cottonbro-6226725.jpg') no-repeat center center fixed;
@@ -1088,10 +1098,6 @@ p.lead {
 
 /* small screens */
 @media (max-width:600px) {
-  body {
-    padding: 16px
-  }
-
   .media {
     height: 140px
   }
