@@ -15,7 +15,7 @@ section {
 }
 body {
   font-family: "Josefin Sans", sans-serif;
-  background: url('pexels-cottonbro-6226725.jpg') no-repeat center center fixed;
+  background: url('https://images.pexels.com/photos/952670/pexels-photo-952670.jpeg') no-repeat center center fixed;
   background-size: cover;
   height: 100%;
   width: 100%;
@@ -1111,3 +1111,4 @@ p.lead {
     padding: 12px
   }
 }
+
